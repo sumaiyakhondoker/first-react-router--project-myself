@@ -1,0 +1,13 @@
+.country-box{
+    border: 2px solid darkviolet;
+    padding: 20px;
+    border-radius: 14px;
+}
+
+
+.country{
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    flex-grow: 3;
+}

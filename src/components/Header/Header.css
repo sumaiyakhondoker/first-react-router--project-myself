@@ -1,0 +1,19 @@
+.logo{
+    font-size: large;
+    font-weight: bold;
+    color:yellowgreen
+}
+
+nav a{
+    margin-right: 15px;
+    color: black;
+    
+}
+
+nav a.active{
+    /* text-decoration: underline; */
+    color: yellowgreen;
+    font-style: bold;
+    background-color: gainsboro;
+    padding: 10px
+}
